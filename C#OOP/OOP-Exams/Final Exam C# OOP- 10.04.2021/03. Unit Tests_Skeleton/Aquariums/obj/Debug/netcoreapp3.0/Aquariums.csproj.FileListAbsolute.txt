@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache

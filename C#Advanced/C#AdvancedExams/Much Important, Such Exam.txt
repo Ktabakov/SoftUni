@@ -1,0 +1,4 @@
+TrimEnd() at end of StringBuilder or Override ToString();...
+don't use \n for new Line!!! Use Environment New Line;
+Use Wikss github cheatsheet!
+Think about all ways a cycle could end!

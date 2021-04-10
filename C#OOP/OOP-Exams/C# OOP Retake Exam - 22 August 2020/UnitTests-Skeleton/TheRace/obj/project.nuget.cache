@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iTW8LJsroaVd6gaJywVGQq2xbgb3b4bYUKobIjRlBt7zV3lzPqfwMeQk5jPlSb31fhdpTpYGqHsSAs7JlXj9nA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\OOP-Exams\\C# OOP Retake Exam - 22 August 2020\\UnitTests-Skeleton\\TheRace\\TheRace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

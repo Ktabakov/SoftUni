@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Validation\bin\Debug\netcoreapp3.1\Validation.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Validation\bin\Debug\netcoreapp3.1\Validation.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Validation\bin\Debug\netcoreapp3.1\Validation.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Validation\bin\Debug\netcoreapp3.1\Validation.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Validation\bin\Debug\netcoreapp3.1\Validation.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Validation\bin\Debug\netcoreapp3.1\Validation.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Validation\obj\Debug\netcoreapp3.1\Validation.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Validation\obj\Debug\netcoreapp3.1\Validation.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Validation\obj\Debug\netcoreapp3.1\Validation.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Validation\obj\Debug\netcoreapp3.1\Validation.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Validation\obj\Debug\netcoreapp3.1\Validation.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Validation\obj\Debug\netcoreapp3.1\Validation.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Validation\obj\Debug\netcoreapp3.1\Validation.genruntimeconfig.cache

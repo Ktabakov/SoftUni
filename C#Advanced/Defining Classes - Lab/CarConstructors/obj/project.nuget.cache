@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mfpQoypHxt0HQ/LOKAk65+vdbozOOt2jcSoYGgatPoev1WlhlnH54GvDbOIQTXWzt1CrFap/xRIlOBFWMSETvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\Defining Classes - Lab\\Car\\CarConstructors\\CarConstructors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

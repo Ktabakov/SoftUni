@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B/8zPXp/Z8OatF1ub6mi5vcj2u5xICPYxGpYZTxiuX2rWt/T1f0VCkwrwNV8ZpK9YBfnXkxO5klc/fyotqYjOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\Basic Algorithms - Exercise\\Recursive Array Sum\\Recursive Array Sum\\Recursive Array Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

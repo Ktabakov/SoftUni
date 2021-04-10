@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "835R/VHWk4sYXppYnKTs60pyisPu1L8hbXcftmLnQ6weXbvoSOfXNLOT0ZosCkqwbtTVHRaX7KSa2rHNb29qFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\EncapsulationExer\\ClassBoxData\\ClassBoxData\\ClassBoxData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

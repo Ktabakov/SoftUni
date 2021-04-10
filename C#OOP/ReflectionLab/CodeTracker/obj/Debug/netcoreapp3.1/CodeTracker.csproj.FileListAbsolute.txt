@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\CodeTracker\bin\Debug\netcoreapp3.1\CodeTracker.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\CodeTracker\bin\Debug\netcoreapp3.1\CodeTracker.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\CodeTracker\bin\Debug\netcoreapp3.1\CodeTracker.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\CodeTracker\bin\Debug\netcoreapp3.1\CodeTracker.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\CodeTracker\bin\Debug\netcoreapp3.1\CodeTracker.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\CodeTracker\bin\Debug\netcoreapp3.1\CodeTracker.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\CodeTracker\obj\Debug\netcoreapp3.1\CodeTracker.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\CodeTracker\obj\Debug\netcoreapp3.1\CodeTracker.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\CodeTracker\obj\Debug\netcoreapp3.1\CodeTracker.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\CodeTracker\obj\Debug\netcoreapp3.1\CodeTracker.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\CodeTracker\obj\Debug\netcoreapp3.1\CodeTracker.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\CodeTracker\obj\Debug\netcoreapp3.1\CodeTracker.genruntimeconfig.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\CodeTracker\obj\Debug\netcoreapp3.1\CodeTracker.csprojAssemblyReference.cache

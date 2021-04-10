@@ -1,0 +1,12 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Team\bin\Debug\netcoreapp3.1\MyTeam.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Team\bin\Debug\netcoreapp3.1\MyTeam.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Team\bin\Debug\netcoreapp3.1\MyTeam.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Team\bin\Debug\netcoreapp3.1\MyTeam.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Team\bin\Debug\netcoreapp3.1\MyTeam.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Team\bin\Debug\netcoreapp3.1\MyTeam.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Team\obj\Debug\netcoreapp3.1\MyTeam.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Team\obj\Debug\netcoreapp3.1\MyTeam.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Team\obj\Debug\netcoreapp3.1\MyTeam.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Team\obj\Debug\netcoreapp3.1\MyTeam.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Team\obj\Debug\netcoreapp3.1\MyTeam.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Team\obj\Debug\netcoreapp3.1\MyTeam.genruntimeconfig.cache

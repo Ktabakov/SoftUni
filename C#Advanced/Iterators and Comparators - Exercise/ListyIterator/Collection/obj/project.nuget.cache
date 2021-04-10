@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ps5m+Z9yOJ7PtDMvaq7jOFNDZQ3QHqYSVHjfdRDT0BmdbarQCSzb3SLEys+bYd4VNWM+vwPCsI0b2eqYsgnQWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\Iterators and Comparators - Exercise\\ListyIterator\\Collection\\Collection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

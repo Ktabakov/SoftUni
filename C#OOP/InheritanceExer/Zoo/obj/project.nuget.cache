@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aV5A378OAsH8A4+sGh8O46yjIy/QJJne2pyM0y89nqAlZd+ipX6cZc3oUILXcFrvaWlJhGoXujuSK5HzezWQfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\InheritanceExer\\Zoo\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

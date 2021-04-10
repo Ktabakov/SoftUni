@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\Final Exam C# OOP- 10.04.2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache

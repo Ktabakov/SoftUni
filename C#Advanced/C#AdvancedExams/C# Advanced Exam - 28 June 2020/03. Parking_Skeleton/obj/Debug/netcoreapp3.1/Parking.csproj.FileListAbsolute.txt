@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\03. Parking_Skeleton\bin\Debug\netcoreapp3.1\Parking.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\03. Parking_Skeleton\bin\Debug\netcoreapp3.1\Parking.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\03. Parking_Skeleton\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\03. Parking_Skeleton\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\03. Parking_Skeleton\bin\Debug\netcoreapp3.1\Parking.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\03. Parking_Skeleton\bin\Debug\netcoreapp3.1\Parking.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\03. Parking_Skeleton\obj\Debug\netcoreapp3.1\Parking.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\03. Parking_Skeleton\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\03. Parking_Skeleton\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\03. Parking_Skeleton\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\03. Parking_Skeleton\obj\Debug\netcoreapp3.1\Parking.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\03. Parking_Skeleton\obj\Debug\netcoreapp3.1\Parking.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\03. Parking_Skeleton\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache

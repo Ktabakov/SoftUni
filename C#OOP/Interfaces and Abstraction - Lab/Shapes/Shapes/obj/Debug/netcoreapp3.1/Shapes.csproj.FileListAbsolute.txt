@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache

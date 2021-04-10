@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\FirstTask\3rd\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\FirstTask\3rd\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\FirstTask\3rd\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\FirstTask\3rd\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\FirstTask\3rd\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\FirstTask\3rd\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\FirstTask\3rd\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\FirstTask\3rd\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\FirstTask\3rd\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\FirstTask\3rd\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\FirstTask\3rd\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\FirstTask\3rd\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\FirstTask\3rd\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.genruntimeconfig.cache

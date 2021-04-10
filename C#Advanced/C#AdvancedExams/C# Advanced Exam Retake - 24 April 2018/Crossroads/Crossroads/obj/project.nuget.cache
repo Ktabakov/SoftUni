@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQjCsPzjtnq9Rq22SrmHAPrT8pc7xEQcNbcrO4LdRWDYLFY/VLayMzQhObhUFij9b5tCMJSYByXEAbJUTce5DQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\Exams\\C# Advanced Exam Retake - 24 April 2018\\Crossroads\\Crossroads\\Crossroads.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

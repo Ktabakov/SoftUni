@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\MySalary\bin\Debug\netcoreapp3.1\MySalary.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\MySalary\bin\Debug\netcoreapp3.1\MySalary.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\MySalary\bin\Debug\netcoreapp3.1\MySalary.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\MySalary\bin\Debug\netcoreapp3.1\MySalary.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\MySalary\bin\Debug\netcoreapp3.1\MySalary.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\MySalary\bin\Debug\netcoreapp3.1\MySalary.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\MySalary\obj\Debug\netcoreapp3.1\MySalary.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\MySalary\obj\Debug\netcoreapp3.1\MySalary.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\MySalary\obj\Debug\netcoreapp3.1\MySalary.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\MySalary\obj\Debug\netcoreapp3.1\MySalary.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\MySalary\obj\Debug\netcoreapp3.1\MySalary.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\MySalary\obj\Debug\netcoreapp3.1\MySalary.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\MySalary\obj\Debug\netcoreapp3.1\MySalary.genruntimeconfig.cache

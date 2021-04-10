@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\Stack\obj\Debug\netcoreapp3.1\Stack.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache

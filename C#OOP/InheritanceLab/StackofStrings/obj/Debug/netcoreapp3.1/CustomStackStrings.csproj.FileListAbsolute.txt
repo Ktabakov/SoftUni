@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\StackofStrings\bin\Debug\netcoreapp3.1\CustomStackStrings.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\StackofStrings\bin\Debug\netcoreapp3.1\CustomStackStrings.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\StackofStrings\bin\Debug\netcoreapp3.1\CustomStackStrings.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\StackofStrings\bin\Debug\netcoreapp3.1\CustomStackStrings.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\StackofStrings\bin\Debug\netcoreapp3.1\CustomStackStrings.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\StackofStrings\bin\Debug\netcoreapp3.1\CustomStackStrings.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\StackofStrings\obj\Debug\netcoreapp3.1\CustomStackStrings.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\StackofStrings\obj\Debug\netcoreapp3.1\CustomStackStrings.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\StackofStrings\obj\Debug\netcoreapp3.1\CustomStackStrings.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\StackofStrings\obj\Debug\netcoreapp3.1\CustomStackStrings.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\StackofStrings\obj\Debug\netcoreapp3.1\CustomStackStrings.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\StackofStrings\obj\Debug\netcoreapp3.1\CustomStackStrings.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\StackofStrings\obj\Debug\netcoreapp3.1\CustomStackStrings.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LKu9oTh/ok7B3QF0g9S9j77kZAsBW/a+9Qo4kVUin/WJCe8aofZCCjqbMs4j5lf6O6rU5CG3pqk/UzLfvuFFtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\Defining Classes - Lab\\Car\\SpecialCars\\SpecialCars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

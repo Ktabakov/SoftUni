@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.genruntimeconfig.cache

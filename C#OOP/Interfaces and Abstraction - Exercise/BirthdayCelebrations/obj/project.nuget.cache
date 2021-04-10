@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n+ZF+7Wdhdbc3/A+zi6kcYM/kMh2HVEH3M8D5UBbpooU9vJzHLCxVNoGyxEvm2PeINkG+dPLvRAxhmxoHyWpgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\Interfaces and Abstraction - Exercise\\BirthdayCelebrations\\BirthdayCelebrations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

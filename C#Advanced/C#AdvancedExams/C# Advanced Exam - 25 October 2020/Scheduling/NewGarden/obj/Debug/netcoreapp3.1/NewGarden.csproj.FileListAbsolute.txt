@@ -1,0 +1,12 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 25 October 2020\Scheduling\NewGarden\bin\Debug\netcoreapp3.1\NewGarden.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 25 October 2020\Scheduling\NewGarden\bin\Debug\netcoreapp3.1\NewGarden.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 25 October 2020\Scheduling\NewGarden\bin\Debug\netcoreapp3.1\NewGarden.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 25 October 2020\Scheduling\NewGarden\bin\Debug\netcoreapp3.1\NewGarden.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 25 October 2020\Scheduling\NewGarden\bin\Debug\netcoreapp3.1\NewGarden.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 25 October 2020\Scheduling\NewGarden\bin\Debug\netcoreapp3.1\NewGarden.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 25 October 2020\Scheduling\NewGarden\obj\Debug\netcoreapp3.1\NewGarden.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 25 October 2020\Scheduling\NewGarden\obj\Debug\netcoreapp3.1\NewGarden.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 25 October 2020\Scheduling\NewGarden\obj\Debug\netcoreapp3.1\NewGarden.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 25 October 2020\Scheduling\NewGarden\obj\Debug\netcoreapp3.1\NewGarden.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 25 October 2020\Scheduling\NewGarden\obj\Debug\netcoreapp3.1\NewGarden.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 25 October 2020\Scheduling\NewGarden\obj\Debug\netcoreapp3.1\NewGarden.genruntimeconfig.cache

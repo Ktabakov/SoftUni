@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+1t8+rGKm1d3R2cWdmFSqXePr17+FbMK7/vcB10cofnymGEU/87kBccD9WE5HWILe8Eyaabxpvb9hgdNz40v0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\Exams\\C# Advanced Retake Exam - 16 December 2020\\Cooking\\Cooking\\Cooking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\UnitTestningExercise\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\UnitTestningExercise\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\UnitTestningExercise\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\UnitTestningExercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\UnitTestningExercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\UnitTestningExercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\UnitTestningExercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\UnitTestningExercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\UnitTestningExercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.pdb

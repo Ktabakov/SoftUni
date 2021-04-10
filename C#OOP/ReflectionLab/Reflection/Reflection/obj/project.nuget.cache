@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vkjxxqAf6jVKSl6H+Kn9FPA3X2NTVxZA4N6Tka1yY87QNlmFkZJNUZ2zPx/eJjkekFuYwY4mnSGeCr8k7V90Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\ReflectionLab\\Reflection\\Reflection\\Stealer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

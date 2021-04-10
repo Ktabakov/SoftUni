@@ -1,0 +1,9 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb

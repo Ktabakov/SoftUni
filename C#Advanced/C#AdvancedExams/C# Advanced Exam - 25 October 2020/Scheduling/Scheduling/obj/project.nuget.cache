@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rtGv1SlZh+ePee3B2Vf/HclWo5AKfC7vXzMs+Bejbbj8nCEPb+Wp6/24mU0qWuL+XG1GptqxhtO4NE6DZGF0Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\Exams\\C# Advanced Exam - 25 October 2020\\Scheduling\\Scheduling\\Scheduling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

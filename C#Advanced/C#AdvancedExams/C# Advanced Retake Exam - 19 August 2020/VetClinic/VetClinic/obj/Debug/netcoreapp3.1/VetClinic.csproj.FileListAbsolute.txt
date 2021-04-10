@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache

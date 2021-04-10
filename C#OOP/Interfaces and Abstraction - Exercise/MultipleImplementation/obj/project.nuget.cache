@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pk3vE5s/0O8RSVlvmpual23HPq8gQ4pxzbQoIP3+Rihfc2lWsxHikI8SH3BeoJIXivHlyC2o9Z6AxujX7zDUng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\Interfaces and Abstraction - Exercise\\MultipleImplementation\\MultipleImplementation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

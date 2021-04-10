@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JOhd6tIhpaMt3ZwCc1ciBP4nXjdWG7kkrX8PrtiLI7k/cCrRq813i5Bf21gu/286oIaU6ZRg2oAave5y2C5Sgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\OOP-Exams\\C# OOP Exam - 12 December 2020\\BankSafe\\BankSafe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

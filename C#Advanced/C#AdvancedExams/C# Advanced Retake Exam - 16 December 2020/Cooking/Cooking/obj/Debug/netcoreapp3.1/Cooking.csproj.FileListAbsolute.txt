@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 16 December 2020\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 16 December 2020\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 16 December 2020\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 16 December 2020\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 16 December 2020\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 16 December 2020\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 16 December 2020\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 16 December 2020\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 16 December 2020\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 16 December 2020\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 16 December 2020\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 16 December 2020\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 16 December 2020\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.genruntimeconfig.cache

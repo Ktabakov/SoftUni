@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Mocking and Test Driven Development - Lab\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Mocking and Test Driven Development - Lab\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Mocking and Test Driven Development - Lab\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Mocking and Test Driven Development - Lab\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Mocking and Test Driven Development - Lab\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Mocking and Test Driven Development - Lab\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Mocking and Test Driven Development - Lab\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Mocking and Test Driven Development - Lab\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Mocking and Test Driven Development - Lab\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Mocking and Test Driven Development - Lab\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Mocking and Test Driven Development - Lab\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Mocking and Test Driven Development - Lab\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Mocking and Test Driven Development - Lab\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.genruntimeconfig.cache

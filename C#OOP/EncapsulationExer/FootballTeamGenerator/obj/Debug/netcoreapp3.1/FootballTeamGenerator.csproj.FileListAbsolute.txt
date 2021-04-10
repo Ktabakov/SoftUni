@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.genruntimeconfig.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csproj.CoreCompileInputs.cache

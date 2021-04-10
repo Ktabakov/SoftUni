@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\MyAnimals.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\MyAnimals.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\MyAnimals.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\MyAnimals.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\MyAnimals.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\MyAnimals.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\MyAnimals.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\MyAnimals.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\MyAnimals.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\MyAnimals.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\MyAnimals.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\MyAnimals.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\MyAnimals.genruntimeconfig.cache

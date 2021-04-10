@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XpGP+VBt5BccqyaFtiiypu4r0m6jSBNPyLz+Gf/TQi2f+Me2thX+iv73vav2+3ektpyOx1d2gBJo0ZADeWcDpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\ReflectionExercise\\ReflectionAndAttributes\\ValidationAttributes\\ValidationAttributes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\Second\Warships\bin\Debug\netcoreapp3.1\Warships.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\Second\Warships\bin\Debug\netcoreapp3.1\Warships.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\Second\Warships\bin\Debug\netcoreapp3.1\Warships.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\Second\Warships\bin\Debug\netcoreapp3.1\Warships.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\Second\Warships\bin\Debug\netcoreapp3.1\Warships.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\Second\Warships\bin\Debug\netcoreapp3.1\Warships.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\Second\Warships\obj\Debug\netcoreapp3.1\Warships.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\Second\Warships\obj\Debug\netcoreapp3.1\Warships.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\Second\Warships\obj\Debug\netcoreapp3.1\Warships.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\Second\Warships\obj\Debug\netcoreapp3.1\Warships.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\Second\Warships\obj\Debug\netcoreapp3.1\Warships.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\Second\Warships\obj\Debug\netcoreapp3.1\Warships.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\Final Exam\Second\Warships\obj\Debug\netcoreapp3.1\Warships.genruntimeconfig.cache

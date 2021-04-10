@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MF7ZKEVaYnvx/ivtKEDl9NfwwNPjnnezSP9nykUWKHe1Z9dbzEaDQeEj0HECj1zDh0XEKkh0Cz3F1WQoeYON1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\Interfaces and Abstraction - Exercise\\DefineAnInterfaceIPerson\\BorderControl\\BorderControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

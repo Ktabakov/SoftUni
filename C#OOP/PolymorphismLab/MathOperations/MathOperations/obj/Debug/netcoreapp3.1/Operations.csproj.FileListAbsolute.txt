@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\Operations.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\Operations.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\Operations.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\Operations.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\Operations.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache

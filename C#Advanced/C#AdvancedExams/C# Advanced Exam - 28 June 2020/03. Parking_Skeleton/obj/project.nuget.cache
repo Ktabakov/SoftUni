@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "218ofMcu+2H+q7et1PwmmA7TyObICYgoGEYqqnSw0Hk1ewDh4tRPDsTlIOncw/3PLG7ZdnUW3fDscoeUfJ/I4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\Exams\\C# Advanced Exam - 28 June 2020\\03. Parking_Skeleton\\Parking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

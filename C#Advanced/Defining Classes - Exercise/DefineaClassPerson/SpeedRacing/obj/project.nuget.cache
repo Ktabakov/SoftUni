@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uADR9C42WaAergYqmyUCq5d9L9BpsBwloNZjsW6Afe9engZynbrNWdVRxW36wvONuwCsZyBX0cc68lc1K9BxYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\Defining Classes - Exercise\\DefineaClassPerson\\SpeedRacing\\SpeedRacing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

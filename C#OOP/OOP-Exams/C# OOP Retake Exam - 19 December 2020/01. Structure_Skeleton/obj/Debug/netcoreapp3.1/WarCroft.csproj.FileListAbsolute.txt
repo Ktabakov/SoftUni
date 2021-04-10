@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 19 December 2020\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 19 December 2020\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 19 December 2020\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 19 December 2020\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 19 December 2020\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 19 December 2020\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 19 December 2020\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 19 December 2020\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 19 December 2020\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 19 December 2020\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 19 December 2020\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 19 December 2020\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Retake Exam - 19 December 2020\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.genruntimeconfig.cache

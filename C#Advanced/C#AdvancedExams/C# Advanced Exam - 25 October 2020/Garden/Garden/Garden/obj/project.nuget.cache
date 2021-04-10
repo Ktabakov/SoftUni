@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eG/ts2i6HM8wjO+6b7RZlW2gkAADdMos2o5QfSye597l/xDnesoYX9zi4l8+k+lmCMjWJSX2FxH7Bpht4HafRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\Exams\\C# Advanced Exam - 25 October 2020\\Garden\\Garden\\Garden\\Garden.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

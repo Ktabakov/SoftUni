@@ -1,0 +1,12 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Persons\bin\Debug\netcoreapp3.1\MyPersons.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Persons\bin\Debug\netcoreapp3.1\MyPersons.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Persons\bin\Debug\netcoreapp3.1\MyPersons.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Persons\bin\Debug\netcoreapp3.1\MyPersons.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Persons\bin\Debug\netcoreapp3.1\MyPersons.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Persons\bin\Debug\netcoreapp3.1\MyPersons.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Persons\obj\Debug\netcoreapp3.1\MyPersons.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Persons\obj\Debug\netcoreapp3.1\MyPersons.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Persons\obj\Debug\netcoreapp3.1\MyPersons.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Persons\obj\Debug\netcoreapp3.1\MyPersons.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Persons\obj\Debug\netcoreapp3.1\MyPersons.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationLab\Persons\Persons\obj\Debug\netcoreapp3.1\MyPersons.genruntimeconfig.cache

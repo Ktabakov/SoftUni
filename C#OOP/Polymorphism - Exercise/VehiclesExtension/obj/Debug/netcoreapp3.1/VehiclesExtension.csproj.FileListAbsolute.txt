@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Polymorphism - Exercise\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Polymorphism - Exercise\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Polymorphism - Exercise\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Polymorphism - Exercise\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Polymorphism - Exercise\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Polymorphism - Exercise\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Polymorphism - Exercise\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Polymorphism - Exercise\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Polymorphism - Exercise\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Polymorphism - Exercise\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Polymorphism - Exercise\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Polymorphism - Exercise\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Polymorphism - Exercise\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.genruntimeconfig.cache

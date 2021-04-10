@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 22 Feb 2020\Lootbox\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 22 Feb 2020\Lootbox\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 22 Feb 2020\Lootbox\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 22 Feb 2020\Lootbox\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 22 Feb 2020\Lootbox\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 22 Feb 2020\Lootbox\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 22 Feb 2020\Lootbox\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 22 Feb 2020\Lootbox\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 22 Feb 2020\Lootbox\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 22 Feb 2020\Lootbox\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 22 Feb 2020\Lootbox\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 22 Feb 2020\Lootbox\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 22 Feb 2020\Lootbox\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.genruntimeconfig.cache

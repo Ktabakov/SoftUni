@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MyShapes\bin\Debug\netcoreapp3.1\MyShapes.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MyShapes\bin\Debug\netcoreapp3.1\MyShapes.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MyShapes\bin\Debug\netcoreapp3.1\MyShapes.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MyShapes\bin\Debug\netcoreapp3.1\MyShapes.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MyShapes\bin\Debug\netcoreapp3.1\MyShapes.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MyShapes\bin\Debug\netcoreapp3.1\MyShapes.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MyShapes\obj\Debug\netcoreapp3.1\MyShapes.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MyShapes\obj\Debug\netcoreapp3.1\MyShapes.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MyShapes\obj\Debug\netcoreapp3.1\MyShapes.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MyShapes\obj\Debug\netcoreapp3.1\MyShapes.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MyShapes\obj\Debug\netcoreapp3.1\MyShapes.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MyShapes\obj\Debug\netcoreapp3.1\MyShapes.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\PolymorphismLab\MyShapes\obj\Debug\netcoreapp3.1\MyShapes.genruntimeconfig.cache

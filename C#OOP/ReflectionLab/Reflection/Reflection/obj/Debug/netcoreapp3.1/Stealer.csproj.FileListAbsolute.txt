@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\Reflection\Reflection\bin\Debug\netcoreapp3.1\Stealer.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\Reflection\Reflection\bin\Debug\netcoreapp3.1\Stealer.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\Reflection\Reflection\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\Reflection\Reflection\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\Reflection\Reflection\bin\Debug\netcoreapp3.1\Stealer.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\Reflection\Reflection\bin\Debug\netcoreapp3.1\Stealer.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\Reflection\Reflection\obj\Debug\netcoreapp3.1\Stealer.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\Reflection\Reflection\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\Reflection\Reflection\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\Reflection\Reflection\obj\Debug\netcoreapp3.1\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\Reflection\Reflection\obj\Debug\netcoreapp3.1\Stealer.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\Reflection\Reflection\obj\Debug\netcoreapp3.1\Stealer.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\ReflectionLab\Reflection\Reflection\obj\Debug\netcoreapp3.1\Stealer.genruntimeconfig.cache

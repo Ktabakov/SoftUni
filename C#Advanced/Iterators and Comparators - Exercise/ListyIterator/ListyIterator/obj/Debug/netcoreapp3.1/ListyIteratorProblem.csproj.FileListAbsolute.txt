@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\bin\Debug\netcoreapp3.1\ListyIteratorProblem.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\bin\Debug\netcoreapp3.1\ListyIteratorProblem.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\bin\Debug\netcoreapp3.1\ListyIteratorProblem.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\bin\Debug\netcoreapp3.1\ListyIteratorProblem.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\bin\Debug\netcoreapp3.1\ListyIteratorProblem.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\bin\Debug\netcoreapp3.1\ListyIteratorProblem.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\netcoreapp3.1\ListyIteratorProblem.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\netcoreapp3.1\ListyIteratorProblem.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\netcoreapp3.1\ListyIteratorProblem.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\netcoreapp3.1\ListyIteratorProblem.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\netcoreapp3.1\ListyIteratorProblem.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\netcoreapp3.1\ListyIteratorProblem.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\netcoreapp3.1\ListyIteratorProblem.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\01. Single Inheritance\obj\Debug\netcoreapp3.1\SingleInheritance.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\01. Single Inheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\01. Single Inheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\01. Single Inheritance\obj\Debug\netcoreapp3.1\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\01. Single Inheritance\bin\Debug\netcoreapp3.1\SingleInheritance.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\01. Single Inheritance\bin\Debug\netcoreapp3.1\SingleInheritance.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\01. Single Inheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\01. Single Inheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\01. Single Inheritance\bin\Debug\netcoreapp3.1\SingleInheritance.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\01. Single Inheritance\bin\Debug\netcoreapp3.1\SingleInheritance.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\01. Single Inheritance\obj\Debug\netcoreapp3.1\SingleInheritance.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\01. Single Inheritance\obj\Debug\netcoreapp3.1\SingleInheritance.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\01. Single Inheritance\obj\Debug\netcoreapp3.1\SingleInheritance.genruntimeconfig.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\InheritanceLab\01. Single Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.genruntimeconfig.cache

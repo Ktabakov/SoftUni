@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OXkiO/8JdxEphux1jjqGrjz6mml0e8XQMczgRaH3Wgx3NgXGLwM7Ws33T9N4h9CmEqMzRO9VphMKb/fK8OaP7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\StackofStrings\\CustomStackStrings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

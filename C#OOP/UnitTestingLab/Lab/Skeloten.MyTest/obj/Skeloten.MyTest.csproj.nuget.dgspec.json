@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\UnitTestingLab\\Lab\\Skeloten.MyTest\\Skeloten.MyTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\UnitTestingLab\\Lab\\Skeleton\\Skeleton.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\UnitTestingLab\\Lab\\Skeleton\\Skeleton.csproj",
+        "projectName": "Skeleton",
+        "projectPath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\UnitTestingLab\\Lab\\Skeleton\\Skeleton.csproj"
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\UnitTestingLab\\Lab\\Skeloten.MyTest\\Skeloten.MyTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\UnitTestingLab\\Lab\\Skeloten.MyTest\\Skeloten.MyTest.csproj",
+        "projectName": "Skeloten.MyTest",
+        "projectPath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\UnitTestingLab\\Lab\\Skeloten.MyTest\\Skeloten.MyTest.csproj",
+        "packagesPath": "C:\\Users\\Dalla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\UnitTestingLab\\Lab\\Skeloten.MyTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dalla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\UnitTestingLab\\Lab\\Skeleton\\Skeleton.csproj": {
+                "projectPath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\UnitTestingLab\\Lab\\Skeleton\\Skeleton.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

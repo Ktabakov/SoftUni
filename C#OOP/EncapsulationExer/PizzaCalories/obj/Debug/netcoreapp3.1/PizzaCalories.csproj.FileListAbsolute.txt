@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\EncapsulationExer\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.genruntimeconfig.cache

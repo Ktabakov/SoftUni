@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QOgsOGeK/M26hzzzfeXrsmO9he7KJr8YWXK9dMoMkqhlodicXO0dVFvVzfmt907uiANzX9KJOSTcrqxpqUwhKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\OOP\\Interfaces and Abstraction - Exercise\\FoodShortage\\FoodShortage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

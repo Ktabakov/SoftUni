@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kIA9xHo7rpE4PcrIOwonNDkfXJbkWepnGYw00115/DV/bniI2rzt7cE/a/8rNrxfiXvDKxKeeVDpUF33R1Ir1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalla\\Desktop\\SoftUni\\C#Advanced\\Exams\\C# Advanced Exam - 28 June 2020\\Bombs\\Bombs\\Bombs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

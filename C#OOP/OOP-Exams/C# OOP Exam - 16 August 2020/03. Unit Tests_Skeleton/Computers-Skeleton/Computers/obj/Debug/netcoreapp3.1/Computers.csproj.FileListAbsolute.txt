@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Exam - 16 August 2020\03. Unit Tests_Skeleton\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Exam - 16 August 2020\03. Unit Tests_Skeleton\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Exam - 16 August 2020\03. Unit Tests_Skeleton\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Exam - 16 August 2020\03. Unit Tests_Skeleton\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Exam - 16 August 2020\03. Unit Tests_Skeleton\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Exam - 16 August 2020\03. Unit Tests_Skeleton\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Exam - 16 August 2020\03. Unit Tests_Skeleton\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Exam - 16 August 2020\03. Unit Tests_Skeleton\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Exam - 16 August 2020\03. Unit Tests_Skeleton\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Exam - 16 August 2020\03. Unit Tests_Skeleton\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Exam - 16 August 2020\03. Unit Tests_Skeleton\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Exam - 16 August 2020\03. Unit Tests_Skeleton\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\OOP-Exams\C# OOP Exam - 16 August 2020\03. Unit Tests_Skeleton\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache

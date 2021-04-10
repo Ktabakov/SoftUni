@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Retake Exam - 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.genruntimeconfig.cache

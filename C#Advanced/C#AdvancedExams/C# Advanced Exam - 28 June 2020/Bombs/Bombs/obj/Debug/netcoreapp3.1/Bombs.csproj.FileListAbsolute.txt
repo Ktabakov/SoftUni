@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\Bombs\Bombs\bin\Debug\netcoreapp3.1\Bombs.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\Bombs\Bombs\bin\Debug\netcoreapp3.1\Bombs.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\Bombs\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\Bombs\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\Bombs\Bombs\bin\Debug\netcoreapp3.1\Bombs.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\Bombs\Bombs\bin\Debug\netcoreapp3.1\Bombs.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\Bombs\Bombs\obj\Debug\netcoreapp3.1\Bombs.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\Bombs\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\Bombs\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\Bombs\Bombs\obj\Debug\netcoreapp3.1\Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\Bombs\Bombs\obj\Debug\netcoreapp3.1\Bombs.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\Bombs\Bombs\obj\Debug\netcoreapp3.1\Bombs.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Exams\C# Advanced Exam - 28 June 2020\Bombs\Bombs\obj\Debug\netcoreapp3.1\Bombs.genruntimeconfig.cache

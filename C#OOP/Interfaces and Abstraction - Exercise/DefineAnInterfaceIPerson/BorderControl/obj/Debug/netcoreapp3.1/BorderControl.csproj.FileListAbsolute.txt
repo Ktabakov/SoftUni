@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache

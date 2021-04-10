@@ -1,0 +1,13 @@
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Lab\Library\newLibrary\bin\Debug\netcoreapp3.1\newLibrary.exe
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Lab\Library\newLibrary\bin\Debug\netcoreapp3.1\newLibrary.deps.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Lab\Library\newLibrary\bin\Debug\netcoreapp3.1\newLibrary.runtimeconfig.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Lab\Library\newLibrary\bin\Debug\netcoreapp3.1\newLibrary.runtimeconfig.dev.json
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Lab\Library\newLibrary\bin\Debug\netcoreapp3.1\newLibrary.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Lab\Library\newLibrary\bin\Debug\netcoreapp3.1\newLibrary.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Lab\Library\newLibrary\obj\Debug\netcoreapp3.1\newLibrary.csprojAssemblyReference.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Lab\Library\newLibrary\obj\Debug\netcoreapp3.1\newLibrary.AssemblyInfoInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Lab\Library\newLibrary\obj\Debug\netcoreapp3.1\newLibrary.AssemblyInfo.cs
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Lab\Library\newLibrary\obj\Debug\netcoreapp3.1\newLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Lab\Library\newLibrary\obj\Debug\netcoreapp3.1\newLibrary.dll
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Lab\Library\newLibrary\obj\Debug\netcoreapp3.1\newLibrary.pdb
+C:\Users\Dalla\Desktop\SoftUni\C#Advanced\Iterators and Comparators - Lab\Library\newLibrary\obj\Debug\netcoreapp3.1\newLibrary.genruntimeconfig.cache
