@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyFirstServer.Demo/1.0.0": {
+        "dependencies": {
+          "MyFirstServer.Server": "1.0.0"
+        },
+        "runtime": {
+          "MyFirstServer.Demo.dll": {}
+        }
+      },
+      "MyFirstServer.Server/1.0.0": {
+        "runtime": {
+          "MyFirstServer.Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyFirstServer.Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyFirstServer.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
