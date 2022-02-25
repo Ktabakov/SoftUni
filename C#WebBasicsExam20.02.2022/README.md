@@ -2,7 +2,7 @@ Softuni C# Web Basics 20.02.2022 Exam.
 <br>
 The exam was written in 4 hours. I did not change the code after that.
 <br>
-Provided with a custom server and views, the task was to follow the instructions in the Word file to create a Football manager application.
+Provided with a custom server and views, the task was to follow the instructions in the docx file to create a Football manager application.
 <br>
 Database and functionality requirements are listed in the instructions.
 <br>
