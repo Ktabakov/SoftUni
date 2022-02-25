@@ -8,7 +8,7 @@ Database and functionality requirements are listed in the instructions.
 <br>
 Important for the exam was to follow the SOLID principles, practive CRUD operations. 
 <br>
-During the duration of this course we were tought the basics of the HTTP Protocol, asynchronous processing, MVC, IoC data binding. 
+During the duration of this course we were taught the basics of the HTTP Protocol, asynchronous processing, MVC, IoC data binding. 
 <br>
 Certificate:
 https://softuni.bg/certificates/details/126336/126c5a69
